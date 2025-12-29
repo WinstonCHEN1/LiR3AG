@@ -49,4 +49,9 @@ For more examples and parameter descriptions, inspect the scripts under LiR3AG/s
 
 ## Citation
 
-TBD
+@article{chen2025lir,
+  title={LIR $\^{} 3$ AG: A Lightweight Rerank Reasoning Strategy Framework for Retrieval-Augmented Generation},
+  author={Chen, Guo and Huang, Junjie and Xie, Huaijin and Sun, Fei and Jia, Tao},
+  journal={arXiv preprint arXiv:2512.18329},
+  year={2025}
+}
