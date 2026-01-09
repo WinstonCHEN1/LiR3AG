@@ -1,6 +1,6 @@
 # LiR3AG
 
-[AAAI 2026] A Lightweight Rerank Reasoning Strategy Framework for Retrieval-Augmented Generation
+- [[AAAI 2026] A Lightweight Rerank Reasoning Strategy Framework for Retrieval-Augmented Generation] (https://arxiv.org/abs/2512.18329)
 
 ## Environmental Installation
 
@@ -48,10 +48,11 @@ python LiR3AG/reproduce/rag/qwen3.py \
 For more examples and parameter descriptions, inspect the scripts under LiR3AG/scripts and LiR3AG/reproduce.
 
 ## Citation
-
+```
 @article{chen2025lir,
   title={LIR $\^{} 3$ AG: A Lightweight Rerank Reasoning Strategy Framework for Retrieval-Augmented Generation},
   author={Chen, Guo and Huang, Junjie and Xie, Huaijin and Sun, Fei and Jia, Tao},
   journal={arXiv preprint arXiv:2512.18329},
   year={2025}
 }
+```
