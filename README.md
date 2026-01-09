@@ -1,6 +1,6 @@
 # LiR3AG
 
-- [[AAAI 2026] A Lightweight Rerank Reasoning Strategy Framework for Retrieval-Augmented Generation] (https://arxiv.org/abs/2512.18329)
+- [AAAI 2026 A Lightweight Rerank Reasoning Strategy Framework for Retrieval-Augmented Generation](https://arxiv.org/abs/2512.18329)
 
 ## Environmental Installation
 
